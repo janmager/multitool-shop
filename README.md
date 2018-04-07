@@ -19,9 +19,11 @@ www.zslmultitool.pl/shop
 
 # Określenie wymagań
 -> Responsywność serwisu - poprawne, czytelne i pełne pod względem funkcjonalności działanie strony na wszystkim możliwych urządzeniach odczytujących (telefon, tablet, laptop, pc, telewizor) oraz wszystkich przeglądarkach internetowych (Google Chrome, Mozilla, Opera, IE, Safari oraz pozostałe mobilne)<br><br>
--> Szybkość działania - użycie frameworków, ajax, skompresowane jpg<br><br>
--> Czytelność, intuicyjność obsługi - minimalizm<br><br>
--> Administracja bazą danych produktów - panel administracyjny<br><br>
+-> Szybkość działania - zapewnienie jak najkrótszego czasu oczekiwania na wyniki zapytań czy też załadowanie strony<br><br>
+-> Czytelność, intuicyjność obsługi - stworzenie serwisu jak najbardziej czytelnego i intuicyjnego jak tylko to będzie możliwe, aby każda osoba, bez względu na wiek wchodząc na stronę nie miała problemów oraz wątplilowości podczas używania apliakcji<br><br>
+-> Administracja bazą danych produktów, panel administracyjny - zaimplementowanie panelu administracyjnego w celu możliwości edycji bazy danych z każdego miejsca, przy użyciu tylko przeglądarki internetowej oraz dostępu do internetu<br><br>
+-> Udział użytkownika - możliwość zgłaszania błędów strony, aktualizacji cen, dodawania czy też usuwania produktów<br><br>
+-> Minimalizm - stworzenie idealistycznej strony oparetej o najnowsze trendy designerskie
 
 # Projektowanie
 # Implementacja
