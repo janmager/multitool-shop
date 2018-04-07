@@ -28,13 +28,15 @@ www.zslmultitool.pl/shop
 
 # Projektowanie
 Projektowanie aplikacji zostało podzielone na kilka podpunktów, użyto rozmaitych aplikacji oraz narzędzi.<br><br>
-1. Stworzenie projektu graficznego/wizualizacji w aplikacji Adobe Photoshop
-![Projektowanie-1](http://url/to/img.png)
+1. Stworzenie projektu graficznego/wizualizacji w aplikacji Adobe Photoshop<br><br>
+![Projektowanie-1](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-1.png)<br>
+1. Stworzenie wizualizacji projektu<br><br>
+![Projektowanie-2](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-2.png)<br><br>
 
 
 # Implementacja
 # Instrukcja obsługi
-*Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe. 
+*Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
 
 Użytkownik ma możliwość przeglądania listy produktów ...
 
