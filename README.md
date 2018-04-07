@@ -9,11 +9,12 @@ www.zslmultitool.pl/shop
 [3. Określenie wymagań](#określenie-wymagań)<br>
 [4. Projektowanie](#projektowanie)<br>
 [5. Implementacja](#implementacja)<br>
-[6. Instrukcja obsługi](#instrukcja-obsługi)<br>
-[7. Zaplecze administracyjne](#zaplecze-administracyjne)<br>
-[8. Podsumowanie](#podsumowanie)<br>
-[9. Literatura](#literatura)<br>
-[10. Załączniki](#załączniki)<br>
+[6. Użyte technologie](#użyte-technologie)<br>
+[7. Instrukcja obsługi](#instrukcja-obsługi)<br>
+[8. Zaplecze administracyjne](#zaplecze-administracyjne)<br>
+[9. Podsumowanie](#podsumowanie)<br>
+[10. Literatura](#literatura)<br>
+[11. Załączniki](#załączniki)<br>
 
 # Założenia i cel projektu
 **Stajnia vs. Łącznik vs. Automaty** - głównym celem przed wykonaniem tego serwisu było zebranie w jednym miejscu wszystkich niezbędnych informacji na temat sprzedaży przedmiotów spożywczych na terenie Zespołu Szkół Łączności w Poznaniu. Tworząc ten projekt wiodącym założeniem była przede wszystkim szybkość działania oraz czytelnośc i intuicyjność obługi strony, aby każda osoba używająca aplikacji, bez znaczenia czy to na telefonie, tablecie czy komputerze, mogła w bezproblemowy sposób znaleźć szukany produkt lub porównać go z innym.
@@ -27,14 +28,25 @@ www.zslmultitool.pl/shop
 -> Minimalizm - stworzenie idealistycznej strony oparetej o najnowsze trendy designerskie
 
 # Projektowanie
-Projektowanie aplikacji zostało podzielone na kilka podpunktów, użyto rozmaitych aplikacji oraz narzędzi.<br><br>
-1. Stworzenie projektu graficznego/wizualizacji w aplikacji Adobe Photoshop<br><br>
-![Projektowanie-1](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-1.png)<br>
-1. Stworzenie wizualizacji projektu<br><br>
+### 1. Stworzenie projektu graficznego/wizualizacji w aplikacji Adobe Photoshop<br>
+![Projektowanie-1](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-1.png)<br><br>
+### 2. Stworzenie wizualizacji projektu<br>
 ![Projektowanie-2](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-2.png)<br><br>
-
+### 3. Stworzenie struktury folderów i plików<br>
+![Projektowanie-3](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-3.png)<br><br>
 
 # Implementacja
+### 1. Stworzenie w pliku ze stylami stałych zmiennych<br>
+![Projektowanie-4](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-4.png)<br><br>
+### 2. Podpięcie używanych frameworków<br>
+![Projektowanie-5](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-5.png)<br><br>
+### 3. Bieżące pisanie strony oraz naprawa błędów<br>
+![Projektowanie-6](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-6.png)<br><br>
+### 4. Dostosowywanie serwisu pod urządzenia mobilne<br>
+![Projektowanie-7](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-7.png)<br><br>
+
+# Użyte technologie
+
 # Instrukcja obsługi
 *Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
 
