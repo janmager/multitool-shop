@@ -3,6 +3,7 @@ Stajnia vs. Łącznik vs. Automaty<br>
 Projekt innowacji zawodowych 2017/2018<br>
 Jan Mager 2B1T<br>
 www.zslmultitool.pl/shop
+
 # Spis treści
 [1. Początek](#dokumentacja-techniczna)<br>
 [2. Założenia i cel projektu](#założenia-i-cel-projektu)<br>
@@ -10,11 +11,12 @@ www.zslmultitool.pl/shop
 [4. Projektowanie](#projektowanie)<br>
 [5. Implementacja](#implementacja)<br>
 [6. Użyte technologie](#użyte-technologie)<br>
-[7. Instrukcja obsługi](#instrukcja-obsługi)<br>
-[8. Zaplecze administracyjne](#zaplecze-administracyjne)<br>
-[9. Podsumowanie](#podsumowanie)<br>
-[10. Literatura](#literatura)<br>
-[11. Załączniki](#załączniki)<br>
+[7. Użyte aplikacje](#użyte-aplikacje)<br>
+[8. Instrukcja obsługi](#instrukcja-obsługi)<br>
+[9. Zaplecze administracyjne](#zaplecze-administracyjne)<br>
+[10. Podsumowanie](#podsumowanie)<br>
+[11. Literatura](#literatura)<br>
+[12. Załączniki](#załączniki)<br>
 
 # Założenia i cel projektu
 **Stajnia vs. Łącznik vs. Automaty** - głównym celem przed wykonaniem tego serwisu było zebranie w jednym miejscu wszystkich niezbędnych informacji na temat sprzedaży przedmiotów spożywczych na terenie Zespołu Szkół Łączności w Poznaniu. Tworząc ten projekt wiodącym założeniem była przede wszystkim szybkość działania oraz czytelnośc i intuicyjność obługi strony, aby każda osoba używająca aplikacji, bez znaczenia czy to na telefonie, tablecie czy komputerze, mogła w bezproblemowy sposób znaleźć szukany produkt lub porównać go z innym.
@@ -25,7 +27,7 @@ www.zslmultitool.pl/shop
 -> Czytelność, intuicyjność obsługi - stworzenie serwisu jak najbardziej czytelnego i intuicyjnego jak tylko to będzie możliwe, aby każda osoba, bez względu na wiek wchodząc na stronę nie miała problemów oraz wątplilowości podczas używania apliakcji<br><br>
 -> Administracja bazą danych produktów, panel administracyjny - zaimplementowanie panelu administracyjnego w celu możliwości edycji bazy danych z każdego miejsca, przy użyciu tylko przeglądarki internetowej oraz dostępu do internetu<br><br>
 -> Udział użytkownika - możliwość zgłaszania błędów strony, aktualizacji cen, dodawania czy też usuwania produktów<br><br>
--> Minimalizm - stworzenie idealistycznej strony oparetej o najnowsze trendy designerskie
+-> Minimalizm - stworzenie idealistycznej strony opartej o najnowsze trendy designerskie
 
 # Projektowanie
 ### 1. Stworzenie projektu graficznego/wizualizacji w aplikacji Adobe Photoshop<br>
@@ -46,6 +48,24 @@ www.zslmultitool.pl/shop
 ![Projektowanie-7](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-7.png)<br><br>
 
 # Użyte technologie
+* HTML5 - strona merytoryczna
+* CSS3 - strona wizualna
+* CSS Variables - czytelność kodu
+* JavaScript - animacje oraz elementy interaktywne
+* jQuery - optymalizacja kody JS
+* JavaScript AJAX - obługa aplikacji bez konieczności odświeżania witryny
+* PHP - łączenie z bazą danych oraz działanie na rekordach
+* Github - repozytorium 
+* MySQL - baza danych produktów
+
+# Użyte aplikacje
+* Adobe Photoshop - wykonanie projektu aplikacji oraz potrzebnych elementów graficznych
+* Atom.io - pisanie kodu
+* XAMPP - localhost na systemie Windows
+* MAMP - localhost na systemie MacOS
+* Git Bash - przesyłanie plików do repozytorium na systemie Windows
+* Terminal - przesyłanie plików do repozytorium na systemie MacOS
+* FileZilla - przesyłanie plików na hosting
 
 # Instrukcja obsługi
 *Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
