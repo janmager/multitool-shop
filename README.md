@@ -60,7 +60,7 @@ www.zslmultitool.pl/shop
 
 # Użyte aplikacje
 * Adobe Photoshop - wykonanie projektu aplikacji oraz potrzebnych elementów graficznych
-* Atom.io - pisanie kodu
+* Atom.io - edycja kodu
 * XAMPP - localhost na systemie Windows
 * MAMP - localhost na systemie MacOS
 * Git Bash - przesyłanie plików do repozytorium na systemie Windows
