@@ -70,10 +70,28 @@ www.zslmultitool.pl/shop
 # Instrukcja obsługi
 *Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
 
-Użytkownik ma możliwość przeglądania listy produktów ...
+Użytkownik ma możliwość przeglądania listy produktów, wyszczególniając je na znajdujące się w stajni, łączniku, automacie oraz pokazanie wszystkich. 
+
+Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z trzech opcji:
+- wszyskie produkty
+- losowy produkt
+- wyszukiwarka produktów
 
 Kiedy nie może się zdecydować jaki produkt zakupić, specjalnie dla niego została przygotowana opcja 'losowy produkt'.
+
+Kiedy znam nazwę produktu lub jej część skorzystaj z wyszukiwarki.
+
+Kiedy chcesz przejrzeć całą bazę danych sprawdź 'wszystkie produkty'.
+
 # Zaplecze administracyjne
+Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz dostępne 4 opcje.
+
+1. Pierwszą z nich jest przeglądanie zgłoszony błędnych cen, proponowanych poprawek/aktualizacji oraz sugerowanych nowych produktów. Możesz z tego miejsca zaakakcpetować zmianę lub odrzucić i usunąć propozycję.
+
+2. Druga opcja jest to dodanie nowego produktu do bazy danych, bez konieczności ręcznej edycji kody MySQL. Prosty oraz intuicyjny formularz wymaga podania nazwy produktu, ceny oraz miejsca, w którym możemy go kupić.
+
 # Podsumowanie
+
 # Literatura
+
 # Załączniki
