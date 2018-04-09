@@ -94,7 +94,7 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 
 4. Czwarta opcja są to statystyki bazy danych, wyświetlana jest obecna liczba wszystkich produktów znajdujących się w bazie danych, najdroższy produkt oraz najtańszy.
 
-# Podsumowanie
+# Plany rozwoju
 
 # Literatura
 
