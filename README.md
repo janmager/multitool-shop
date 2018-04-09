@@ -90,6 +90,10 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 
 2. Druga opcja jest to dodanie nowego produktu do bazy danych, bez konieczności ręcznej edycji kody MySQL. Prosty oraz intuicyjny formularz wymaga podania nazwy produktu, ceny oraz miejsca, w którym możemy go kupić.
 
+3. Trzecie opcja jest to edycja wpisanych już produktów do bazy danych. Podobnie jak w fukncji wyżej, mamy możliwość edycji nazwy, ceny i miejsca bez konieczności logowania się do phpmyadmin. Możemy również z tego poziomu permamentnie usuwać produkty z bazy danych.
+
+4. Czwarta opcja są to statystyki bazy danych, wyświetlana jest obecna liczba wszystkich produktów znajdujących się w bazie danych, najdroższy produkt oraz najtańszy.
+
 # Podsumowanie
 
 # Literatura
