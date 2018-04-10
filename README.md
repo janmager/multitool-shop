@@ -73,12 +73,12 @@ www.zslmultitool.pl/shop
 Użytkownik ma możliwość przeglądania listy produktów, wyszczególniając je na znajdujące się w stajni, łączniku, automacie oraz pokazanie wszystkich.
 
 Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z trzech opcji:
-- wszyskie produkty<br>
-![Wszystkie produkty](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br>
-- losowy produkt<br>
-![Losowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-1.png)<br>
-- wyszukiwarka produktów<br>
-![Wyszukiwarka produktów](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-4.png)<br>
+- wszyskie produkty<br><br>
+![Wszystkie produkty](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br><br>
+- losowy produkt<br><br>
+![Losowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-1.png)<br><br>
+- wyszukiwarka produktów<br><br>
+![Wyszukiwarka produktów](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-4.png)<br><br>
 
 Kiedy nie może się zdecydować jaki produkt zakupić, specjalnie dla niego została przygotowana opcja 'losowy produkt'.
 
@@ -87,19 +87,19 @@ Kiedy znam nazwę produktu lub jej część skorzystaj z wyszukiwarki.
 Kiedy chcesz przejrzeć całą bazę danych sprawdź 'wszystkie produkty'.
 
 # Zaplecze administracyjne
-Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz dostępne 4 opcje.<br>
-![Panel Admina](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-6.png)<br>
+Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz dostępne 4 opcje.<br><br>
+![Panel Admina](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-6.png)<br><br>
 
-1. Pierwszą z nich jest przeglądanie zgłoszony błędnych cen, proponowanych poprawek/aktualizacji oraz sugerowanych nowych produktów. Możesz z tego miejsca zaakakcpetować zmianę lub odrzucić i usunąć propozycję.<br>
+1. Pierwszą z nich jest przeglądanie zgłoszony błędnych cen, proponowanych poprawek/aktualizacji oraz sugerowanych nowych produktów. Możesz z tego miejsca zaakakcpetować zmianę lub odrzucić i usunąć propozycję.<br><br>
 
-2. Druga opcja jest to dodanie nowego produktu do bazy danych, bez konieczności ręcznej edycji kody MySQL. Prosty oraz intuicyjny formularz wymaga podania nazwy produktu, ceny oraz miejsca, w którym możemy go kupić.<br>
-![Dodaj nowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-7.png)<br>
+2. Druga opcja jest to dodanie nowego produktu do bazy danych, bez konieczności ręcznej edycji kody MySQL. Prosty oraz intuicyjny formularz wymaga podania nazwy produktu, ceny oraz miejsca, w którym możemy go kupić.<br><br>
+![Dodaj nowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-7.png)<br><br>
 
-3. Trzecie opcja jest to edycja wpisanych już produktów do bazy danych. Podobnie jak w fukncji wyżej, mamy możliwość edycji nazwy, ceny i miejsca bez konieczności logowania się do phpmyadmin. Możemy również z tego poziomu permamentnie usuwać produkty z bazy danych.<br>
-![Edycja produktu](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-9.png)<br>
+3. Trzecie opcja jest to edycja wpisanych już produktów do bazy danych. Podobnie jak w fukncji wyżej, mamy możliwość edycji nazwy, ceny i miejsca bez konieczności logowania się do phpmyadmin. Możemy również z tego poziomu permamentnie usuwać produkty z bazy danych.<br><br>
+![Edycja produktu](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-9.png)<br><br>
 
-4. Czwarta opcja są to statystyki bazy danych, wyświetlana jest obecna liczba wszystkich produktów znajdujących się w bazie danych, najdroższy produkt oraz najtańszy.<br>
-![Statystyki bazy danych](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-8.png)<br>
+4. Czwarta opcja są to statystyki bazy danych, wyświetlana jest obecna liczba wszystkich produktów znajdujących się w bazie danych, najdroższy produkt oraz najtańszy.<br><br>
+![Statystyki bazy danych](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-8.png)<br><br>
 
 # Plany rozwoju
 
