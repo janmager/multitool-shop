@@ -107,8 +107,10 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 - Napisanie skrytu wysyłającego powiadomienia na żywo
 
 # Literatura
-- www.w3schools.com
-- php.net/docs
+- http://www.w3schools.com
+- http://www.php.net/docs
+- http://www.api.jquery.com/category/ajax
+- http://www.devdocs.io/javascript
 
 # Załączniki
 Folder wyżej (src)
