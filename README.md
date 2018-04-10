@@ -102,7 +102,13 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 ![Statystyki bazy danych](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-8.png)<br><br>
 
 # Plany rozwoju
+- Przekodowanie strony na aplikację mobilną
+- Rozszerzenie bazy danych produktów
+- Napisanie skrytu wysyłającego powiadomienia na żywo
 
 # Literatura
+- www.w3schools.com
+- php.net/docs
 
 # Załączniki
+Folder wyżej (src)
