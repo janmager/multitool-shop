@@ -55,7 +55,7 @@ www.zslmultitool.pl/shop
 * jQuery - optymalizacja kody JS
 * JavaScript AJAX - obługa aplikacji bez konieczności odświeżania witryny
 * PHP - łączenie z bazą danych oraz działanie na rekordach
-* Github - repozytorium 
+* Github - repozytorium
 * MySQL - baza danych produktów
 
 # Użyte aplikacje
@@ -70,12 +70,15 @@ www.zslmultitool.pl/shop
 # Instrukcja obsługi
 *Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
 
-Użytkownik ma możliwość przeglądania listy produktów, wyszczególniając je na znajdujące się w stajni, łączniku, automacie oraz pokazanie wszystkich. 
+Użytkownik ma możliwość przeglądania listy produktów, wyszczególniając je na znajdujące się w stajni, łączniku, automacie oraz pokazanie wszystkich.
 
 Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z trzech opcji:
-- wszyskie produkty
+- wszyskie produkty<br>
+![](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br>
 - losowy produkt
+![](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-1.png)<br>
 - wyszukiwarka produktów
+![](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-4.png)<br>
 
 Kiedy nie może się zdecydować jaki produkt zakupić, specjalnie dla niego została przygotowana opcja 'losowy produkt'.
 
