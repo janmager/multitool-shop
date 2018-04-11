@@ -103,7 +103,7 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 # Plany rozwoju
 - Przekodowanie strony na aplikację mobilną
 - Rozszerzenie bazy danych produktów
-- Napisanie skrytu wysyłającego powiadomienia na żywo w przeglądarce
+- Napisanie skryptu wysyłającego powiadomienia na żywo w przeglądarce
 
 # Literatura
 - https://w3schools.com
