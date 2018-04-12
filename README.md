@@ -14,8 +14,9 @@ www.zslmultitool.pl/shop
 [7. Użyte aplikacje](#użyte-aplikacje)<br>
 [8. Instrukcja obsługi](#instrukcja-obsługi)<br>
 [9. Zaplecze administracyjne](#zaplecze-administracyjne)<br>
-[10. Literatura](#literatura)<br>
-[11. Załączniki](#załączniki)<br>
+[10. Plany rozwoju](#plany-rozwoju)<br>
+[11. Literatura](#literatura)<br>
+[12. Załączniki](#załączniki)<br>
 
 # Założenia i cel projektu
 **Stajnia vs. Łącznik vs. Automaty** - głównym celem przed wykonaniem tego serwisu było zebranie w jednym miejscu wszystkich niezbędnych informacji na temat sprzedaży przedmiotów spożywczych na terenie Zespołu Szkół Łączności w Poznaniu. Tworząc ten projekt wiodącym założeniem była przede wszystkim szybkość działania oraz czytelnośc i intuicyjność obługi strony, aby każda osoba używająca aplikacji, bez znaczenia czy to na telefonie, tablecie czy komputerze, mogła w bezproblemowy sposób znaleźć szukany produkt lub porównać go z innym.
