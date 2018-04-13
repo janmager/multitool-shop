@@ -18,7 +18,7 @@
   <div class='cont-full-view'>
 
     <a href='admin-panel.php' class='home-icon'>
-      <img src='images/back-icon.png'>
+      <img src='../images/back-icon.png'>
     </a>
 
     <div class='container-full-view random admin-panel-box'>
@@ -50,7 +50,7 @@
   </div>
 
 
-  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="../js/jquery-3.2.1.min.js"></script>
   <script>
   $(function(){
     $("form").submit(function(){

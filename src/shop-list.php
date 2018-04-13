@@ -19,7 +19,7 @@
     </a>-->
 
     <a href="index.php" class="home-icon">
-      <img src="images/back-icon.png">
+      <img src="../images/back-icon.png">
     </a>
 
     <div class="container shop" style="flex-direction: column; flex-wrap: nowrap; justify-content: flex-start;">

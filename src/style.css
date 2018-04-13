@@ -26,6 +26,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	overflow-x: hidden;
 }
 ol, ul {
 	list-style: none;
@@ -265,7 +266,7 @@ footer{
 .changelog-post{
 	border-left: 3px solid;
 	padding: 5px 15px 5px 15px;
-	width: 100%;
+	min-width: 100%;
 	max-width: 600px;
 }
 .changelog-post div{
@@ -1015,8 +1016,104 @@ footer{
 	font-size: 12px;
 	cursor: pointer;
 }
-
-
+.rand-box{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 25px;
+	border: 1px solid rgba(255,255,255,0.4);
+	border-radius: 20px;
+	background: rgba(0,0,0,0.15);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#name-random{
+	font-size: 48px;
+	padding: 10px;
+}
+#place-random{
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	opacity: 0.5;
+	padding: 10px;
+}
+#price-random{
+	padding: 10px;
+	font-size: 28px;
+}
+.rand-again{
+	margin-top: 50px;
+	padding: 15px;
+	font-size: 22px;
+	border-radius: 10px;
+	border: 1px solid rgba(255,255,255,1);
+	background: rgba(0,0,0,0.0);
+	transition: 0.3s;
+	opacity: 0.6;
+}
+.rand-again:hover{
+	transition: 0.3s;
+	cursor: pointer;
+	opacity: 1;
+}
+.h2-new-price{
+		margin-top: 50px;
+		margin-bottom: 15px;
+}
+#report-chg-btn{
+	margin-top: 50px;
+	opacity: 0.6;
+	transition: 0.3s;
+}
+#report-chg-btn:hover{
+	opacity: 1;
+	transition: 0.3s;
+}
+.report-new-price-form{
+	display: flex;
+	justify-content: center !important;
+	align-items: center !important;
+	flex-direction: column !important;
+	flex-wrap: wrap !important;
+}
+.report-new-price-form button{
+	border: 1px solid white !important;
+	color: white !important;
+	padding: 10px !important;
+	font-size: 16px !important;
+	border-radius: 10px !important;
+}
+.report-price-done{
+	display: none;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.report-price-done h1{
+	font-weight: 500;
+}
+.report-price-done h2{
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 300;
+}
+.report-done{
+	padding: 10px;
+	border: 1px solid white;
+	color: white;
+	font-size: 20px;
+	border-radius: 10px;
+	margin-top: 50px;
+	opacity: 0.6;
+	transition: 0.3s;
+}
+.report-done:hover{
+	transition: 0.3s;
+	opacity: 1;
+}
 
 /* STYLES MOBILE */
 

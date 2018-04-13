@@ -18,13 +18,9 @@
     </a>
   -->
 
-    <a href="../index.html" class="home-icon">
-      <img src="images/home-icon.png">
-    </a>
-
-    <a href="admin.php" class="admin-icon">
-      <img src="images/admin-icon.png">
-    </a>
+  <a href="update.php" class="home-icon">
+    <img src="../images/back-icon.png">
+  </a>
 
     <div class="pop-up">
       <div class="close-pop-up">
@@ -44,43 +40,10 @@
       </div>
     </div>
 
-    <div class="container-full-view shop" style="flex-direction: row; flex-wrap: wrap;">
+    <div class="container-full-view shop" style="flex-direction: column; flex-wrap: wrap;">
 
-        <h1>Stajnia<span class="versus"> vs. </span>Łącznik<span class="versus"> vs. </span>Automaty</h1>
+        <h1>Zgłoś nowy produkt</h1>
 
-        <div class="shop-search">
-          <span class="shop-list-icon"><a href="shop-list.php"><img src="../images/list.png"></a></span>
-          <form method="get" action="shop-list.php">
-            <input type="text" name="name" placeholder="WPISZ PRODUKT" id="name" spellcheck="false" autofocus required />
-            <button type="submit" id="search-button"><img src="../images/loop.png"></button>
-          </form>
-        </div>
-
-        <div class="shop-base">
-          <div class="box">
-            <a href="rand-product.php">
-            <div class="box-border" id="box7">
-              <img src="images/box-option-7.png" class="in-box-img">
-            </div>
-            </a>
-          </div>
-
-          <div class="box">
-            <a href="shop-list.php">
-            <div class="box-border" id="box8">
-              <img src="images/box-option-8.png" class="in-box-img">
-            </div>
-            </a>
-          </div>
-
-          <div class="box">
-            <a href="update.php">
-            <div class="box-border" id="box9">
-              <img src="images/box-option-9.png" class="in-box-img">
-            </div>
-            </a>
-          </div>
-        </div>
 
     </div>
 

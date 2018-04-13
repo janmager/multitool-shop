@@ -19,7 +19,7 @@
     </a>-->
 
     <a href="admin-panel.php" class="home-icon">
-      <img src="images/back-icon.png">
+      <img src="../images/back-icon.png">
     </a>
 
     <div class="container shop" style="flex-direction: column; flex-wrap: nowrap; justify-content: flex-start;">
@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="../js/jquery-3.2.1.min.js"></script>
     <script>
       function editProduct(productID){
         var valName = "Name";
