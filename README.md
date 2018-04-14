@@ -90,9 +90,10 @@ Kiedy chcesz przejrzeć całą bazę danych sprawdź 'wszystkie produkty'.
 
 # Zaplecze administracyjne
 Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz dostępne 4 opcje.<br><br>
-![Panel Admina](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-6.png)<br><br>
+![Panel admina](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-6.png)<br><br>
 
-1. Pierwszą z nich jest przeglądanie zgłoszony błędnych cen, proponowanych poprawek/aktualizacji oraz sugerowanych nowych produktów. Możesz z tego miejsca zaakakcpetować zmianę lub odrzucić i usunąć propozycję.<br><br>
+1. Pierwszą z nich jest przeglądanie zgłoszony błędnych cen, proponowanych nowych produktów oraz nieaktualnych produktów. Możesz z tego miejsca zaakakcpetować zmianę lub odrzucić i usunąć propozycję.<br><br>
+![Lista zgłoszeń](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-10.png)<br><br>
 
 2. Druga opcja jest to dodanie nowego produktu do bazy danych, bez konieczności ręcznej edycji kody MySQL. Prosty oraz intuicyjny formularz wymaga podania nazwy produktu, ceny oraz miejsca, w którym możemy go kupić.<br><br>
 ![Dodaj nowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-7.png)<br><br>
