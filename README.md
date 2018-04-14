@@ -80,7 +80,7 @@ Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z cz
 - wszyskie produkty<br><br>
 ![Wszystkie produkty](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br><br>
 - zgłoś zmianę<br><br>
-![Zgłoś zmianę](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-10.png)<br><br>
+![Zgłoś zmianę](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-3.png)<br><br>
 
 Kiedy nie może się zdecydować jaki produkt zakupić, specjalnie dla niego została przygotowana opcja 'losowy produkt'.
 
@@ -106,7 +106,7 @@ Po zalogowaniu do panelu administracyjnego (login: admin, hasło: admin) masz do
 # Plany rozwoju
 - Przekodowanie strony na aplikację mobilną
 - Rozszerzenie bazy danych produktów
-- Napisanie skryptu wysyłającego powiadomienia na żywo w przeglądarce 
+- Napisanie skryptu wysyłającego powiadomienia na żywo w przeglądarce
 
 # Literatura
 - https://w3schools.com
