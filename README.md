@@ -72,13 +72,15 @@ www.zslmultitool.pl/shop
 
 Użytkownik ma możliwość przeglądania listy produktów, wyszczególniając je na znajdujące się w stajni, łączniku, automacie oraz pokazanie wszystkich.
 
-Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z trzech opcji:
-- wszyskie produkty<br><br>
-![Wszystkie produkty](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br><br>
-- losowy produkt<br><br>
-![Losowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-1.png)<br><br>
+Po wejściu na główną stronę użytkonik ma możliwość wybrania jednej z czterech opcji:
 - wyszukiwarka produktów<br><br>
 ![Wyszukiwarka produktów](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-4.png)<br><br>
+- losowy produkt<br><br>
+![Losowy produkt](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-1.png)<br><br>
+- wszyskie produkty<br><br>
+![Wszystkie produkty](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-2.png)<br><br>
+- zgłoś zmianę<br><br>
+![Zgłoś zmianę](https://github.com/janmager/multitool-shop/blob/master/readme-images/multitool-10.png)<br><br>
 
 Kiedy nie może się zdecydować jaki produkt zakupić, specjalnie dla niego została przygotowana opcja 'losowy produkt'.
 
