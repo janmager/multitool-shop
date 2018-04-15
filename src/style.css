@@ -909,7 +909,7 @@ footer{
 	width: 100% !important;
 }
 .edit-tr td{
-	padding: 5px !important;
+	padding: 7px !important;
 	border: 1px solid white !important;
 }
 .table-edit table{
@@ -948,13 +948,31 @@ footer{
 	/* border: 1px solid rgba(255,255,255,0.3); */
 	/* border-radius: 10px; */
 }
-.form-box label{
+.form-box label, .form-boxx h2{
 	text-transform: uppercase;
 	opacity: 0.9;
 	font-size: 28px;
 	margin-bottom: 0px;
 }
-.form-box input{
+.form-boxx select{
+	margin-top: 10px;
+	background: transparent;
+	color: white;
+	font-size: 18px;
+	padding: 5px 10px;
+	cursor: pointer;
+	outline: none;
+}
+.form-boxx select option{
+	color: white;
+	cursor: pointer;
+	background: black;
+}
+.form-boxx h2{
+	margin-top: 75px;
+	margin-bottom: 10px;
+}
+.form-box input, .form-boxx input{
 	background: none;
 	border: 0px;
 	border-bottom: 2px solid white;
@@ -977,7 +995,7 @@ footer{
 	border: 2px solid white;
 	padding: 7px 15px;
 }
-.form-box button{
+.form-box button, .form-boxx button{
 	background: transparent;
 	color: white;
 	border: 0px;
@@ -1113,6 +1131,14 @@ footer{
 .report-done:hover{
 	transition: 0.3s;
 	opacity: 1;
+}
+.table-report{
+	margin-top: 50px;
+}
+.table-report h2{
+	font-size: 20px;
+	text-align: center;
+	margin: 20px 5px;
 }
 
 /* STYLES MOBILE */
