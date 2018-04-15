@@ -66,6 +66,8 @@ www.zslmultitool.pl/shop
 * Git Bash - przesyłanie plików do repozytorium na systemie Windows
 * Terminal - przesyłanie plików do repozytorium na systemie MacOS
 * FileZilla - przesyłanie plików na hosting
+* Google Analytics - analizowanie ruchu na stronie<br><br>
+![Google Analytics](https://github.com/janmager/multitool-shop/blob/master/readme-images/ga.png)<br>
 
 # Instrukcja obsługi
 *Stajnia vs. Łącznik vs. Automaty* - aplikacja, dzięki której możemy wyszukać wszystkiego produkty spożywcze dostępne na terenie Zespołu Szkół Łączności w Poznaniu. Od przekąsek i słodkich napojów znajdujących się w automatach aż po bardziej wykwintne produktu możliwe do zakupienia w bufetach takie jak bułki czy też dania obiadowe.
