@@ -46,6 +46,8 @@ www.zslmultitool.pl/shop
 ![Projektowanie-6](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-6.png)<br><br>
 ### 4. Dostosowywanie serwisu pod urządzenia mobilne<br>
 ![Projektowanie-7](https://github.com/janmager/multitool-shop/blob/master/readme-images/projektowanie-7.png)<br><br>
+### 5. Dodanie do aplikacji Favicon<br>
+![Favicon](https://github.com/janmager/multitool-shop/blob/master/readme-images/favicon.png)<br><br>
 
 # Użyte technologie
 * HTML5 - strona merytoryczna
