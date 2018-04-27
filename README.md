@@ -1,6 +1,6 @@
 # Dokumentacja techniczna
 Stajnia vs. Łącznik vs. Automaty<br>
-Projekt innowacji zawodowych 2017/2018 <br>
+Projekt innowacji zawodowych 2017/2018<br>
 Jan Mager 2B1T<br>
 www.zslmultitool.pl/shop
 
